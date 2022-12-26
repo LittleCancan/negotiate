@@ -1,0 +1,44 @@
+{
+  "id": "2476920",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2142850",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "12012147",
+      "name": "user center",
+      "font_class": "usercenter",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "9567597",
+      "name": "speak",
+      "font_class": "speak",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "31291405",
+      "name": "speak-copy",
+      "font_class": "speak2",
+      "unicode": "f245",
+      "unicode_decimal": 62021
+    },
+    {
+      "icon_id": "31291406",
+      "name": "teamspeak-copy",
+      "font_class": "teamspeak",
+      "unicode": "f246",
+      "unicode_decimal": 62022
+    }
+  ]
+}
